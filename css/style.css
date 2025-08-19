@@ -1,3 +1,4 @@
+@import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700&subset=latin,latin-ext';
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -6651,7 +6652,7 @@ table {
 }
 #nav-top .search input[type='submit'] {
   border: none;
-  background: url('/assets/images/search_ico.png') no-repeat;
+  background: url('../img/search_ico.png') no-repeat;
   vertical-align: middle;
   width: 23px;
   height: 23px;
@@ -7813,7 +7814,7 @@ table {
 #article .text .inner .tab-content .tab-pane .more-articles li a {
   font-family: 'Source Sans Pro';
   font-size: 16px;
-  color: #00365e;
+  color: #053462;
   font-weight: 700;
 }
 #article .text .inner .tab-content .tab-pane .more-articles li span {
@@ -7925,7 +7926,7 @@ table {
 #article .sidebar .more-articles li a {
   font-family: 'Source Sans Pro';
   font-size: 16px;
-  color: #00365e;
+  color: #053462;
   font-weight: 700;
 }
 #article .sidebar .more-articles li span {
@@ -8606,7 +8607,6 @@ iframe {
 
 .nav-red {
   background-color: #053462;
- 
 }
 
 #article .text .inner .table_hokejbal tr.PLZ {
